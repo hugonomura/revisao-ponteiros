@@ -1,0 +1,6 @@
+# ignorando os arquivos temporários do vim
+*.swp
+
+# ignorando os arquivos temporários do gedit
+*~
+
